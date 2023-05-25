@@ -1,10 +1,10 @@
 # Netflix Desktop
 
 ### Screenshot
-<img src="" />
+<img src="https://github.com/Swekshas08/Netflix-Desktop/blob/main/netflix%20desktop%20app%20screenshot.png" />
 
 
-# 🔧 Getting Started 
+# Getting Started 
 
 If you are interested in downloading the code, compiling it and running it, you need some tools!
 
