@@ -1,12 +1,7 @@
 # Netflix Desktop
 
 ### Screenshot
-<img src="https://github.com/AdemCanCertel/netflix-desktop-app/blob/main/src/images/netflix%20desktop%20app%20screenshot.png" />
-
-
-
-### Status in Netflix discord app
-<img src="https://github.com/AdemCanCertel/netflix-desktop-app/blob/main/src/images/netflix%20desktop%20app%20discord%20rpc.png" />
+<img src="" />
 
 
 # 🔧 Getting Started 
